@@ -58,7 +58,7 @@ input[type="password"] {
  */
 
 html {
-  line-height: 1.15;
+  /* line-height: 1.15; */
   /* 1 */
   -ms-text-size-adjust: 100%;
   /* 2 */
@@ -554,7 +554,7 @@ body {
 }
 
 html {
-  font-size: 14px;
+  /* font-size: 14px; */
 }
 
 body {
@@ -564,8 +564,8 @@ body {
   min-width: 320px;
   background: #FFFFFF;
   font-family: 'Lato', 'Helvetica Neue', Arial, Helvetica, sans-serif;
-  font-size: 14px;
-  line-height: 1.4285em;
+  /* font-size: 14px; */
+  /* line-height: 1.4285em; */
   color: rgba(0, 0, 0, 0.87);
   font-smoothing: antialiased;
 }
@@ -628,8 +628,8 @@ h5:last-child {
 *******************************/
 
 p {
-  margin: 0em 0em 1em;
-  line-height: 1.4285em;
+  /* margin: 0em 0em 1em; */
+  /* line-height: 1.4285em; */
 }
 
 p:first-child {
